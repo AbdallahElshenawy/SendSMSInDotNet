@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SendSMS.Controllers.SMSController",
+    "Method": "Send",
+    "RelativePath": "api/SMS/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SendSMS.Dtos.SendSMSDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

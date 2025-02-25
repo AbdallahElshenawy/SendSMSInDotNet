@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wPW4fBU+/p4PnRmweh+DenXG01oJNjrEOM5bkY4dOgI=",
+  "Source": "SendSMSWithTwilio",
+  "BasePath": "_content/SendSMSWithTwilio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

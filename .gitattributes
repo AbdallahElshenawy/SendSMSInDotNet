@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Ensure all text files use LF in the repo
+* text=auto eol=lf
+# Explicitly set C# files to LF
+*.cs text eol=lf
